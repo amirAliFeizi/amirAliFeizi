@@ -1,26 +1,50 @@
 # Amirali Feizi - Web Developer & Instructor
 
-👋 Hi there! I’m Amirali Feizi, a seasoned web developer and instructor specializing in building sophisticated web applications with modern tools like React. With years of experience in the industry, I've dedicated my career to not only developing complex projects but also teaching others how to excel in web development.
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=amirAliFeizi&show_icons=true&theme=radical)
+👋 Hello! I'm **Amirali Feizi**, an experienced web developer and instructor specializing in creating sophisticated web applications with modern technologies like React. My journey began with a passion for teaching and sharing knowledge, and I've been committed to empowering others through clear, practical tutorials.
 
 ## 🧑‍💻 About Me
 
-- **Specialty:** Web development with a focus on front-end technologies such as React, JavaScript, and modern web tools.
-- **Experience:** Creating specialized projects and collaborating on complex web solutions as a freelancer and educator.
-- **Mission:** To simplify learning with clear, concise educational content that guides aspiring developers to master web development skills effectively.
+| ![Profile](https://avatars.githubusercontent.com/u/77777422?v=4) |
+|:--:|
+| **Specialty:** Front-End Development with React, JavaScript, and modern web tools. <br> **Experience:** Freelancing and educating for years, building specialized projects and complex web solutions. <br> **Mission:** To simplify learning and make web development accessible through engaging and effective educational content. |
 
 ## 🌐 Connect with Me
 
-Connect with me on various platforms where I share insights, tutorials, and updates on my latest projects:
+Follow me on my social media platforms for tutorials, updates, and more:
 
-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/frontify.dev/)
-- [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@amirali_feizi)
-- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/amirAliFeizi)
-- [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/frontify)
+| Platform | Link |
+|:---------|:-----|
+| [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/frontify.dev/) | [@frontify.dev](https://www.instagram.com/frontify.dev/) |
+| [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@amirali_feizi) | [@amirali_feizi](https://www.youtube.com/@amirali_feizi) |
+| [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/amirAliFeizi) | [@amirAliFeizi](https://github.com/amirAliFeizi) |
+| [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/frontify) | [@frontify](https://t.me/frontify) |
 
-## 🎯 My Mission
+## 🚀 My Mission
 
-I’m passionate about helping others learn web development by making complex topics easy to understand. In my courses, you’ll never feel alone — I’m here to guide you step-by-step. Whether you’re starting from scratch or advancing your skills, I’m committed to supporting you throughout your journey. Let's build something amazing together!
+I’m dedicated to making web development learning enjoyable and effective. My courses are designed to be easy to follow, providing you with the tools and support you need to succeed. Whether you're a beginner or an experienced developer, I’m here to guide you every step of the way. Let’s build something extraordinary together!
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirAliFeizi&layout=compact&theme=radical)
+## 📊 GitHub Stats
+
+Here’s a snapshot of my GitHub activity and expertise:
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirAliFeizi&show_icons=true&count_private=true&hide_title=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirAliFeizi&layout=compact&theme=tokyonight) |
+|:--:|:--:|
+| **GitHub Stats** | **Top Languages** |
+
+## 📈 Contributions
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=amirAliFeizi&theme=github)
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** JavaScript, TypeScript, HTML, CSS
+- **Frameworks:** React, Tailwind CSS
+- **Tools:** Git, GitHub, VSCode
+
+---
+
+Feel free to reach out or explore my repositories and projects. Happy coding!
+
+---
+
+*Note: Images and data may be subject to updates. The provided links and stats represent my GitHub profile at the time of this README.*
