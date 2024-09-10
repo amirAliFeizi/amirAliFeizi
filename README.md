@@ -4,8 +4,6 @@ Welcome to my GitHub profile! I’m **Amirali Feizi**, a passionate web develope
 
 ## 🧑‍💻 About Me
 
-
-
 As a dedicated web development professional, I specialize in:
 
 - **React Development**: Creating dynamic and high-performance React applications.
@@ -37,7 +35,7 @@ I aim to make web development accessible and engaging by:
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirAliFeizi&show_icons=true&count_private=true&hide_title=true&theme=tokyonight)](https://github.com/amirAliFeizi)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirAliFeizi&show_icons=true&count_private=true&hide_title=true&theme=onedark)](https://github.com/amirAliFeizi)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirAliFeizi&layout=compact&theme=tokyonight)](https://github.com/amirAliFeizi)
 
 ## 📈 Contributions
