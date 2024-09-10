@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I’m **Amirali Feizi**, a passionate web develope
 
 ## 🧑‍💻 About Me
 
-![Profile](https://avatars.githubusercontent.com/u/amirAliFeizi?v=4)
+
 
 As a dedicated web development professional, I specialize in:
 
